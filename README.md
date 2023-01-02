@@ -24,5 +24,6 @@ now table is created.
 Now go to path "signup_web\src\main\java in eclips open RegistrationServelet.java,
 In line number(60) "con = DriverManager.getConnection("jdbc:mysql://localhost:3306/signup_project?useSSL=false","root","Devsingh5@");"
 in place of "root" and "Devsingh5@" give you username and password of mysql;
+Repeat same step for Login.java and Logout.java.
 
 now Right click on signup_web folder and click run on server now done.
